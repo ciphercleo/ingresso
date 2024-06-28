@@ -12,7 +12,7 @@ Este projeto é um sistema de compra de ingressos online com validações e func
 1. **Faça o download do projeto ou clone o repositório:**
 
    ```bash
-   git clone https://github.com/ciphercleo/e-ticket.git
+   git clone https://github.com/ciphercleo/ingresso.git
 
    ### Instruções
 
